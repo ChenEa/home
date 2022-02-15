@@ -1,0 +1,22 @@
+.p1
+{
+	test-align : justify;
+	font-size: 16pt;
+	line-height: 14pt
+}
+
+.p1
+{
+	font-family: Verdana, “Arial Narrow”, sans-serif;
+	color: rebeccapurple;
+}
+
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body 
+{
+  background-color: plum;
+}
